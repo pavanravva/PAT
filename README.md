@@ -1,5 +1,5 @@
 # PAT
 
-![Alt text](DataGenerationPipeline.pdf)
-![Alt text](FrameworkFigure.pdf)
+![Alt text](DataGenerationPipeline.png)
+![Alt text](FrameworkDiagram.png)
 ![Alt text](PerformanceComparisonTable.png)
