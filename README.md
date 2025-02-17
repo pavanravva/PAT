@@ -1,6 +1,6 @@
 # PAT
 ![Alt text](DataGenerationPipeline.png)
-This framework shows how the Personalized Agent Chat (PAT) dataset was generated to help LLMs create more natural, personality-driven responses. It simulates an AI-Human Dialogue in for everyday common scenerio. It starts by using ChatGPT4 to extract personas from the Multi-Session Chat (MSC) dataset, identifying traits like demographics, motivations, and decision-making styles. Based on this, Meta's LLAMA 405B is used to generate a persona description and personalized scene are generated, followed by tailored questions that match the user's traits. These elements come together in a structured prompt for response generation, with new responses continuously added to the PAT dataset.
+This framework outlines the creation of the PAT dataset to enhance LLMs with personality-driven responses. It extracts personas from the MSC dataset using ChatGPT4, then employs Meta's LLAMA 405B to generate personalized scenes and questions. These structured prompts produce AI-human dialogues, to continuously expand the PAT dataset.
 
 ## Adaptive Friend Agent (AFA)
 ![Alt text](FrameworkDiagram.png)
